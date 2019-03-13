@@ -85,7 +85,7 @@ http://docs.grafana.org/installation/debian/
 ```
 sudo systemctl enable create_ap.service
 ```
-## Если была установлена десктопная версия, то следует отключить автозапуск ##
+## Если была установлена десктопная версия, то следует отключить автозапуск GUI ##
 ```
 sudo systemctl disable nodm
 sudo reboot
